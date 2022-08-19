@@ -1,0 +1,47 @@
+.navbar{
+  padding: 10px 80px 10px 50px;
+  background-color: #4E944F;
+}
+
+.nav-item{
+  padding-right: 30px;
+
+}
+
+.top-box{
+  padding: 8% 9%;
+}
+
+.colored-section{
+  background-color: #83BD75;
+  color: white;
+}
+
+.title-img{
+  width: 90%;
+  border-radius: 50%;
+  /* right: 300px; */
+}
+
+.big-heading{
+  /* font-family: "Montserrat", sans-serif; */
+  font-weight: 900;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  padding-left: 40px;
+  padding-top: 30px;
+}
+.instructions{
+  padding: 60px 0;
+}
+.point{
+  margin-bottom: 20px;
+}
+
+.analyse{
+  padding: 20% ;
+}
+
+.about{
+    padding: 5% ;
+}
